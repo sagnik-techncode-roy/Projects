@@ -1,0 +1,4 @@
+[submodule "backend"]
+	path = expense_tracker/backend
+	url = https://github.com/sagnik-techncode-roy/backend.git
+	branch = main
